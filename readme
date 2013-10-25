@@ -1,0 +1,8 @@
+
+This is a simple redis viewer script,  which will help you to view your redis.
+Built using php redis , 
+Change redis configuration in config.php /* IF DIFFERENT THAN DEFAULT"
+
+
+
+
