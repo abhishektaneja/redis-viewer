@@ -1,8 +1,16 @@
 
 This is a simple redis viewer script,  which will help you to view your redis.
+
 Built using php redis , 
+
 Change redis configuration in config.php /* IF DIFFERENT THAN DEFAULT"
 
+Default settings, 
+
+1. Redis connect Ip address, 127.0.0.0
+2. Redis connect port , 6379
+3. Default database, 0 
+4. No of entires per page, 500
 
 
 

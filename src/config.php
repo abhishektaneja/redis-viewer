@@ -4,7 +4,7 @@ $redis_port = 6379;        // PORT no of redis connection
 
 $default_selected_db = 0;  // DEFAULT database selection
 
-$pageViewLimit = 3000;     // NO of rows on a page
+$pageViewLimit = 500;     // NO of rows on a page
 
 
 ?>
